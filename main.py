@@ -11,8 +11,8 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-TOKEN = '7297100065:AAEEpXzPyDv2J_I1xNtysusSXJzAVWVT5Hc'
-LOG_GROUP_ID = -1002544928117
+TOKEN = 'токен'
+LOG_GROUP_ID = ид группы с -
 
 # сначала название монет в кнопке потом хуйня для коингеко
 COINS = {
